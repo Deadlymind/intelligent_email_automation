@@ -284,7 +284,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the DeadlyMind License - see the [LICENSE]([LICENSE](https://deadlymind.vercel.app/)) file for details.
+This project is licensed under the DeadlyMind License - see the [LICENSE]((https://deadlymind.vercel.app/)) file for details.
 
 ---
 
