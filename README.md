@@ -100,7 +100,7 @@ intelligent_email_automation/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/intelligent_email_automation.git
+git clone https://github.com/Deadlymind/intelligent_email_automation.git
 cd intelligent_email_automation
 ```
 
